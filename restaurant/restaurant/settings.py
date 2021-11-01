@@ -25,7 +25,7 @@ SECRET_KEY = '+7!1rvm(=%(to(4j$jgd^-s9p&w=_ix!31ljskk@p57wqgw*2r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cs50pizzaandsubs.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['cs50pizzaandsubs.herokuapp.com','127.0.0.1','*']
 
 
 # Application definition
